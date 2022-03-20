@@ -1,8 +1,10 @@
 This project is Contact_app wich demonstrate the following things 
 
 1.Creating a component in react
+
 2. Using Contact API
-3. Using simple bootstrap
+3. 
+4. Using simple bootstrap
 
    Prerequisites
 
@@ -30,7 +32,8 @@ The Application Runs on localhost:3000
 
 Application Design
 Component
-	contactPages component: 
+contactPages component: 
 this component display the details list of all contact information of user. This component gets its data from API
+
 API Link
 "https://jsonplaceholder.typicode.com/users"
