@@ -1,4 +1,5 @@
-   This project is Contact_app wich demonstrate the following things 
+This project is Contact_app wich demonstrate the following things 
+
 1.Creating a component in react
 2. Using Contact API
 3. Using simple bootstrap
